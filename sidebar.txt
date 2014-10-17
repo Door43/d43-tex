@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tex:home|Door43 (tex)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tex|d43-tex repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tex/archive/master.zip|d43-tex.zip]]
+
+**Recent Changes**
+{{changes>ns = tex}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tex|Ethnologue data]]
+
